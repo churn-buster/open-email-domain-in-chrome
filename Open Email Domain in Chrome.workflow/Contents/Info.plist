@@ -12,7 +12,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Open URL in Chrome</string>
+				<string>Open Email Domain in Chrome</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
